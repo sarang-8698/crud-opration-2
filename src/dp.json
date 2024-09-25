@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Bobsam",
+      "username": "bobby89",
+      "email": "bob89@yahoo.com",
+      "phone": "0987654321",
+      "website": "bobspace.net"
+    },
+    {
+      "id": "3",
+      "name": "Charlie",
+      "username": "charlie99",
+      "email": "charlie99@outlook.com",
+      "phone": "5678901234",
+      "website": "charlieland.org"
+    },
+    {
+      "id": "4",
+      "name": "David",
+      "username": "dave88",
+      "email": "david88@gmail.com",
+      "phone": "8901234567",
+      "website": "davescorner.com"
+    },
+    {
+      "id": "5",
+      "name": "Eve",
+      "username": "eve2020",
+      "email": "eve2020@hotmail.com",
+      "phone": "4567890123",
+      "website": "eveuniverse.org"
+    },
+    {
+      "id": "6",
+      "name": "Frank",
+      "username": "frankie77",
+      "email": "frank77@gmail.com",
+      "phone": "6789012345",
+      "website": "franktalk.com"
+    },
+    {
+      "id": "7",
+      "name": "Grace",
+      "username": "graceful76",
+      "email": "grace76@outlook.com",
+      "phone": "7890123456",
+      "website": "gracespace.net"
+    },
+    {
+      "id": "4574",
+      "name": "Alice sarang",
+      "email": "sarangchaudhari8699@gmail.com",
+      "phone": "08698673161"
+    },
+    {
+      "id": "8538",
+      "name": "Alice sarang",
+      "email": "sarangchaudhari8699@gmail.com",
+      "phone": "08698673161"
+    }
+  ]
+}
